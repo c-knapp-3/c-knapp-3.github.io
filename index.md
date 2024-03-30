@@ -17,7 +17,7 @@ I'm ready to use all I've learned to do something big in the world of computer s
 ## Navigation
 
 - [Home](/)
-- [Resume](/resume.pdf) <!-- Directly opens the resume.pdf -->
+- [View Resume](/resume-page.html)
 - [Download Resume](/resume) <!-- Takes you to the resume.md page -->
 - [Education Background](/education)
 - [Skills](/skills)
