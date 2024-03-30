@@ -12,6 +12,7 @@ I started my college journey in Portland, OR, studying psychology, then switched
 In 2022, I enrolled at the University of Missouri-Kansas City, fully committed to pursuing a major in computer science. I remain dedicated to my studies and am eagerly anticipating my graduation this December. I'm super excited to put everything I've learned to work and start my tech career, hopefully as a full-stack software developer. It's been a long journey with lots of twists and turns, but every step has been preparing me for a future in tech.
 
 ## Undergraduate Courses 
+
 ### Metropolitan Community Colleges & University of Missouri Kansas City
 
 - Intro to Cultural Anthropology (ANTHRO 103)
