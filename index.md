@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Carolyn Knapp](/portfolio_pic.jpg)
+![Carolyn Knapp](/port_pic.jpg)
 
 # Hello!
 
@@ -18,7 +18,7 @@ My ambition is to utilize my varied background and technical skills to effect me
 
 - [Home](/)
 - [Resume](/resume)
-- [Download Resume (PDF)](/resume.pdf)
+- [Download Resume (PDF)](/Resume.pdf)
 - [Education Background](/education)
 - [Skills](/skills)
 - [Projects](/projects)
