@@ -13,6 +13,7 @@ In 2022, I enrolled at the University of Missouri-Kansas City, fully committed t
 
 ## Undergraduate Courses 
 ### Metropolitan Community Colleges & University of Missouri Kansas City
+
 - Intro to Cultural Anthropology (ANTHRO 103)
 - Intro to History of Art (ART-HIST 110)
 - General Biology I (BIOLOGY 108)
@@ -44,6 +45,7 @@ In 2022, I enrolled at the University of Missouri-Kansas City, fully committed t
 - Elementary Statistics (STAT 235)
 
 ### University of Missouri Kansas City (Bachelor or Arts in Computer Science)
+
 - Computer Fundamentals & Applications (COMP-SCI 100)
 - Problem Solving & Programming I (COMP-SCI 101)
 - Problem Solving/Program Lab I (COMP-SCI 101L)
