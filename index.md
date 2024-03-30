@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Carolyn Knapp](https://github.com/c-knapp-3/c-knapp-3.github.io/blob/main/portfolio_pic.jpg?raw=true)
+![Carolyn Knapp](/portfolio_pic.jpg)
 
 # Hello!
 
@@ -18,6 +18,7 @@ My ambition is to utilize my varied background and technical skills to effect me
 
 - [Home](/)
 - [Resume](/resume)
+- [Download Resume (PDF)](/resume.pdf)
 - [Education Background](/education)
 - [Skills](/skills)
 - [Projects](/projects)
