@@ -1,6 +1,6 @@
 # Hello!
 
-![Carolyn Knapp](https://github.com/c-knapp-3/c-knapp-3.github.io/blob/main/portfolio_pic.jpg)
+<img src="portfolio_pic.jpg" alt="Image Description" width="300"/>
 
 Hello! My name is Carolyn Knapp. I am currently a student at University of Missouri-Kansas City, pursuing my first bachelor’s degree in computer science. I expect to graduate in December 2024. With a passion for technology and an impressive GPA of 3.79, I have consistently made the Dean's List, demonstrating my commitment to academic excellence.
 Throughout my academic journey, I've developed a skill set in programming languages such as C++, Java, and Python, alongside web technologies like CSS and HTML. My proficiency also extends to software and databases, including Microsoft Office Suite and Access, coupled with a deep understanding of operating systems like Windows 10 & 11.
