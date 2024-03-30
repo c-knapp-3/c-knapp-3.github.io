@@ -17,8 +17,8 @@ My ambition is to utilize my varied background and technical skills to effect me
 ## Navigation
 
 - [Home](/)
-- [Resume](/resume.pdf)
-- [Download Resume (PDF)](/resume)
+- [Resume](/resume.pdf) <!-- Directly opens the resume.pdf -->
+- [Download Resume](/resume) <!-- Takes you to the resume.md page -->
 - [Education Background](/education)
 - [Skills](/skills)
 - [Projects](/projects)
