@@ -7,6 +7,6 @@ title: Resume
 
 You can download my resume as a PDF file.
 
-[Download Resume (PDF)](CarolynKnappResume.pdf)
+[Download Resume (PDF)](Carolyn_Knapp_Resume.pdf)
 
 [Go back to the homepage](/)
