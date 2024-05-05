@@ -17,7 +17,7 @@ Follow me and reach out via social media:
 - **LinkedIn**: [Carolyn Knapp](https://linkedin.com/in/carolyn-knapp-05a2b32a9)
 - **GitHub**: [c-knapp-3](https://github.com/c-knapp-3)
 
-### Address
+### Location
 **Kansas City, MO**
 
 ### Phone
