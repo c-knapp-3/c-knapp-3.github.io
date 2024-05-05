@@ -1,3 +1,11 @@
+---
+layout: page
+title: Work Experience
+permalink: /work-experience/
+---
+
+## Work Experience
+
 ### Journey to New Life, Inc. - Kansas City, MO
 **Executive Assistant/Bookkeeper**  
 _May 2019 - September 2022_
@@ -23,3 +31,4 @@ _February 2005 - November 2007_
 - Collaborated with team members to streamline production processes and enhance product quality.
 
 [Back to Homepage](/)
+
