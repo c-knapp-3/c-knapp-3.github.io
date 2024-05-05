@@ -26,6 +26,8 @@ title: Skills
 - **Communication**: Effective at conveying information both verbally and in writing.
 - **Organization**: Strong organizational skills that enhance project management and efficiency.
 - **Problem-Solving**: Aptitude for identifying issues and formulating effective solutions.
-- **Teambuilding**: Proven track record in leading and motivating teams towards achieving goals.
+- **Dependability**: Consistently reliable in managing responsibilities in a timely and quality manner.
+- **Empathy**: Skilled in understanding and sharing the feelings of others, enhancing team interactions and client relationships.
+- **Customer Service**: Extensive experience in various capacities, adept at addressing customer needs and ensuring satisfaction.
 
 [Go back to the homepage](/)
