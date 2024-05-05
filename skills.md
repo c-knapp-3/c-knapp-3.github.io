@@ -28,11 +28,4 @@ title: Skills
 - **Problem-Solving**: Aptitude for identifying issues and formulating effective solutions.
 - **Teambuilding**: Proven track record in leading and motivating teams towards achieving goals.
 
-## Certifications
-- *(If you have any relevant certifications, you can list them here.)*
-
 [Go back to the homepage](/)
-```
----
-
-This template outlines your skills in a clear and structured manner, making it easy for visitors to quickly understand your capabilities. You can further customize each section to better reflect your proficiency levels or specific projects you’ve worked on that demonstrate these skills. Would you like to make any modifications or additions to this draft?
