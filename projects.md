@@ -7,20 +7,20 @@ title: Projects
 
 ## SOS Board Game Development
 
-**Technologies Used:** Java, Swing (GUI)
-**Date:** January 2024
-**Overview:** Developed a fully-functional digital version of the SOS board game. The game features AI opponents and multiplayer options, implemented using Object-Oriented Programming (OOP) principles and graphical user interface (GUI) components in Swing.
-**Key Features:**
+**Technologies Used:** Java, Swing (GUI)  
+**Date:** January 2024  
+**Overview:** Developed a fully-functional digital version of the SOS board game. The game features AI opponents and multiplayer options, implemented using Object-Oriented Programming (OOP) principles and graphical user interface (GUI) components in Swing.  
+**Key Features:**  
 - Two game modes: Simple and General.
 - Dynamic scoring system based on player moves and sequence detection.
 - Comprehensive unit testing to ensure robustness and reliability.
 
 ## CPU Scheduling Simulator
 
-**Technologies Used:** Java
-**Date:** February 2024
-**Overview:** Created a simulation program to analyze and compare the efficiency of Shortest Job First (SJF) and Shortest Remaining Time (SRT) scheduling algorithms on system performance.
-**Key Features:**
+**Technologies Used:** Java  
+**Date:** February 2024  
+**Overview:** Created a simulation program to analyze and compare the efficiency of Shortest Job First (SJF) and Shortest Remaining Time (SRT) scheduling algorithms on system performance.  
+**Key Features:**  
 - Input process data manually to simulate different scheduling scenarios.
 - Calculate and display average turnaround times for each algorithm.
 - Detailed documentation of implementation challenges and insights, providing a deeper understanding of scheduling algorithms in operating systems.
