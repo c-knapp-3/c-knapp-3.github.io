@@ -30,4 +30,4 @@ title: Skills
 - **Empathy**: Skilled in understanding and sharing the feelings of others, enhancing team interactions and client relationships.
 - **Customer Service**: Extensive experience in various capacities, adept at addressing customer needs and ensuring satisfaction.
 
-[Go back to the homepage](/)
+[Return to home](/)
