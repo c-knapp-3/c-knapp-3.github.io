@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Contact Information
-permalink: /contact/
 ---
 
 ## Contact Information
@@ -27,4 +26,4 @@ You can also call me at:
 
 If you have any queries or need further information, please don't hesitate to contact me.
 
-[Back to Homepage](/)
+[Return to home](/)
