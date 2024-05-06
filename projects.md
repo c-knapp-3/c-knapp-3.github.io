@@ -31,14 +31,8 @@ title: Projects
 **Date:** May 2024
 **Overview:** Contributed to the development of an inclusive navigation Chrome extension designed to assist individuals living with blindness. This project was done in a group as part of a Human-Computer Interface course.
 **Key Features:**
-- **Screen Reader Compatibility:** Integrates seamlessly with web pages to provide text-to-speech feedback, allowing blind users to receive audible information about their online surroundings.
-- **User-Centered Design:** Focused on enhancing accessibility and usability for blind users, addressing challenges they face in digital navigation.
+- Screen Reader Compatibility: Integrates seamlessly with web pages to provide text-to-speech feedback, allowing blind users to receive audible information about their online surroundings.
+- User-Centered Design: Focused on enhancing accessibility and usability for blind users, addressing challenges they face in digital navigation.
+- Accessibility Features: Focused on ensuring the application was accessible through features like text-to-speech and keyboard navigation.
 
-**Rationale for the Application:**
-This application was chosen to address the significant challenges faced by individuals with blindness, particularly in navigating physical environments and accessing information online.
-
-**My Role and Contributions:**
-- **Development:** Involved in coding the core functionality using JavaScript.
-- **Accessibility Features:** Focused on ensuring the application was accessible through features like text-to-speech and keyboard navigation.
-
-[Go back to the homepage](/)
+[Return to home](/)
