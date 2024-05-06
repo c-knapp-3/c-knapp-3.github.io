@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Work Experience
-permalink: /work-experience/
 ---
 
 ## Work Experience
@@ -30,5 +29,5 @@ _February 2005 - November 2007_
 - Interpreted client specifications to reproduce copies accurately and efficiently.
 - Collaborated with team members to streamline production processes and enhance product quality.
 
-[Back to Homepage](/)
+[Return to home](/)
 
